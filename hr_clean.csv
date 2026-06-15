@@ -1,0 +1,501 @@
+EmployeeID,Department,JobRole,Gender,Age,Salary,YearsAtCompany,MonthlyHours,PerformanceRating,WorkLifeBalance,Attrition,HireDate
+1001,Finance,Accountant,Male,32,107479.45,11.5,216.0,4,4,No,2012-07-01
+1002,Marketing,Marketing Manager,Female,22,90217.73,13.4,192.0,4,2,No,2010-07-24
+1003,HR,HR Specialist,Male,45,82743.435,7.8,132.0,5,3,Yes,2016-03-03
+1004,Finance,SEO Analyst,Male,28,74058.87,8.5,172.0,3,3,No,2015-06-30
+1005,Marketing,Marketing Manager,Female,46,83479.64,9.0,206.0,2,4,No,2015-01-03
+1006,Sales,Account Manager,Male,42,82875.97,10.9,182.0,5,4,No,2013-02-17
+1007,HR,Recruiter,Female,36,101630.19,11.7,177.0,3,1,No,2012-04-19
+1008,HR,HR Specialist,Male,22,79813.1,12.1,188.0,4,3,No,2011-12-14
+1009,HR,HR Manager,Male,33,77805.31,4.5,158.0,5,1,Yes,2019-06-19
+1010,Marketing,Marketing Manager,Female,28,99981.86,13.3,180.0,2,3,No,2010-09-18
+1011,Finance,Financial Analyst,Female,36,107047.93,13.3,165.0,5,2,Yes,2010-09-02
+1012,HR,HR Specialist,Female,42,94396.83,11.9,170.0,3,2,No,2012-02-07
+1013,Operations,Ops Manager,Male,40,86892.48,9.1,187.0,3,3,No,2014-11-27
+1014,Marketing,SEO Analyst,Male,50,81598.26,8.8,269.0,4,3,No,2015-03-21
+1015,Sales,Sales Rep,Male,46,73658.42,2.7,196.0,5,2,No,2021-05-02
+1016,Finance,Financial Analyst,Male,54,112117.49,13.4,162.0,1,3,Yes,2010-08-06
+1017,Operations,Logistics Coordinator,Female,53,87408.14,9.5,175.0,3,3,No,2014-06-17
+1018,Operations,Ops Manager,Male,56,77097.05,4.6,142.0,4,1,Yes,2019-05-30
+1019,Sales,Account Manager,Female,59,104988.13,9.1,184.0,4,4,No,2014-12-11
+1020,Finance,Financial Analyst,Male,47,76797.48,3.9,199.0,4,2,No,2020-01-28
+1021,Marketing,SEO Analyst,Male,32,81902.86,7.8,160.0,2,3,No,2016-03-28
+1022,Engineering,DevOps Engineer,Male,56,111083.3,13.9,148.0,3,3,No,2010-02-23
+1023,Finance,Financial Analyst,Female,29,104985.72,10.4,176.0,3,2,Yes,2013-07-31
+1024,Sales,Account Manager,Female,35,83206.54,4.5,199.0,4,1,Yes,2019-06-25
+1025,Operations,Ops Manager,Female,31,83045.655,6.4,141.0,3,3,Yes,2017-08-19
+1026,Marketing,Marketing Manager,Female,23,78418.4,7.8,148.0,3,4,No,2016-03-26
+1027,Finance,Finance Manager,Female,30,104835.02,10.5,161.0,5,3,No,2013-06-27
+1028,Engineering,DevOps Engineer,Female,24,108655.99,9.2,154.0,1,3,No,2014-10-30
+1029,Engineering,DevOps Engineer,Male,42,99785.08,6.5,154.0,5,3,No,2017-07-20
+1030,HR,HR Manager,Male,47,96896.82,11.7,128.0,4,2,No,2012-04-17
+1031,HR,HR Specialist,Male,29,93556.12,11.9,182.0,4,3,No,2012-01-30
+1032,Sales,Sales Manager,Female,23,166532.95249999996,5.5,177.0,3,4,No,2018-07-10
+1033,Finance,Finance Manager,Female,27,117596.8,11.8,136.0,1,2,No,2012-03-03
+1034,Finance,Finance Manager,Male,49,95458.4,6.0,199.0,4,2,No,2018-01-19
+1035,Operations,Logistics Coordinator,Female,50,83402.9,6.3,204.0,4,2,Yes,2017-09-18
+1036,Operations,Operations Analyst,Female,47,87337.03,8.1,155.0,4,3,No,2015-12-07
+1037,Finance,Operations Analyst,Male,46,90368.04,13.0,193.0,2,4,No,2010-12-22
+1038,HR,Recruiter,Male,33,61618.55,3.7,159.0,4,1,No,2020-04-21
+1039,Finance,Finance Manager,Female,26,114578.35,11.2,174.0,4,3,Yes,2012-10-19
+1040,Finance,Accountant,Male,55,100769.38500000001,5.5,153.0,4,2,No,2018-06-28
+1041,Engineering,Data Scientist,Female,58,121432.79,12.2,214.0,4,4,No,2011-10-08
+1042,HR,Recruiter,Male,36,78138.62,7.4,164.0,4,2,Yes,2016-07-29
+1043,Marketing,Marketing Specialist,Female,57,87921.32,5.9,173.0,4,3,No,2018-02-10
+1044,HR,HR Specialist,Female,41,79367.43,9.7,156.0,2,3,No,2014-04-25
+1045,Marketing,Marketing Specialist,Female,44,101576.78,12.4,207.0,3,3,Yes,2011-07-24
+1046,Engineering,DevOps Engineer,Male,27,122382.46,13.0,208.0,2,3,Yes,2011-01-11
+1047,Sales,Sales Manager,Female,42,89958.55,8.9,203.0,3,2,No,2015-02-10
+1048,Finance,Accountant,Female,44,106290.21,7.5,189.0,3,3,No,2016-06-28
+1049,Engineering,Software Engineer,Male,37,128203.33,12.2,158.0,2,2,No,2011-10-16
+1050,Finance,Financial Analyst,Female,36,107908.08,8.8,187.0,3,2,No,2015-03-23
+1051,Operations,Ops Manager,Male,46,103543.83,11.7,170.0,2,3,Yes,2012-04-07
+1052,Sales,Sales Manager,Male,57,81668.03,5.5,196.0,4,2,No,2018-07-11
+1053,Finance,Sales Rep,Male,32,93855.62,7.8,192.0,5,2,No,2016-03-27
+1054,Engineering,Software Engineer,Male,36,93917.87,3.8,157.0,2,3,Yes,2020-03-03
+1055,Sales,Sales Manager,Male,25,82875.97,5.8,189.0,5,4,No,2018-03-08
+1056,Marketing,Marketing Manager,Female,42,90158.86,10.4,184.0,3,3,No,2013-08-25
+1057,Sales,Sales Rep,Male,34,82875.97,5.7,115.0,3,1,No,2018-04-21
+1058,Finance,Accountant,Female,43,97761.26,6.0,186.0,2,1,Yes,2017-12-20
+1059,Finance,Accountant,Male,40,96354.23,9.3,161.0,3,4,No,2014-09-13
+1060,Finance,Accountant,Male,55,115739.1,8.0,152.0,4,2,No,2015-12-28
+1061,Finance,Accountant,Male,35,104151.86,12.4,153.0,4,1,No,2011-08-08
+1062,Marketing,Marketing Specialist,Female,25,81902.86,10.2,167.0,2,3,Yes,2013-11-02
+1063,HR,Recruiter,Male,48,166532.95249999996,2.0,180.0,2,3,No,2021-12-24
+1064,Operations,Logistics Coordinator,Female,50,89833.3,8.5,143.0,3,3,No,2015-06-29
+1065,Engineering,DevOps Engineer,Female,49,120892.96,10.3,174.0,3,2,No,2013-08-31
+1066,Finance,Accountant,Female,56,90826.76,3.6,182.0,3,1,No,2020-05-14
+1067,Sales,Sales Manager,Male,29,81402.03,5.5,207.0,3,4,No,2018-07-06
+1068,Finance,Finance Manager,Male,37,91821.97,8.0,148.0,4,2,No,2016-01-21
+1069,Sales,Sales Rep,Female,57,82875.97,9.1,163.0,5,3,No,2014-12-05
+1070,Operations,Operations Analyst,Male,51,72682.71,6.7,175.0,3,3,No,2017-04-10
+1071,Operations,Operations Analyst,Female,39,104200.96,12.8,193.0,5,3,No,2011-04-04
+1072,Operations,Operations Analyst,Male,23,83523.54,8.9,164.0,3,2,No,2015-02-20
+1073,Sales,Sales Manager,Female,34,98296.02,13.3,194.0,3,2,No,2010-09-20
+1074,Finance,Financial Analyst,Female,25,93128.91,6.9,131.0,3,3,No,2017-01-28
+1075,Operations,Ops Manager,Female,47,76303.45,5.0,145.0,4,4,No,2018-12-31
+1076,Marketing,Marketing Specialist,Male,46,79490.2,8.0,177.0,5,4,Yes,2016-01-03
+1077,Sales,Account Manager,Female,51,95922.24,12.5,142.0,4,2,No,2011-06-27
+1078,Sales,Account Manager,Male,32,94849.5,9.3,147.0,3,2,No,2014-09-25
+1079,Finance,Finance Manager,Male,28,97659.73,6.9,159.0,4,4,No,2017-01-21
+1080,Sales,Account Manager,Female,52,88544.45,9.2,185.0,2,3,No,2014-10-08
+1081,Sales,Account Manager,Female,41,69631.69,2.8,132.0,5,4,No,2021-03-13
+1082,Operations,Ops Manager,Female,34,75156.4,5.1,173.0,3,2,No,2018-11-16
+1083,Finance,Accountant,Female,52,74515.33,3.7,191.0,3,3,No,2020-04-16
+1084,Operations,Logistics Coordinator,Male,28,79140.29,10.8,166.0,4,3,No,2013-03-16
+1085,Operations,Logistics Coordinator,Male,57,76552.45,8.1,163.0,4,3,No,2015-12-10
+1086,Finance,Financial Analyst,Female,41,105992.42,10.9,178.0,2,3,No,2013-02-17
+1087,Engineering,DevOps Engineer,Male,25,112987.26,8.5,166.0,4,1,No,2015-07-14
+1088,Operations,Operations Analyst,Male,28,94102.85,8.1,198.0,3,3,Yes,2015-11-23
+1089,Marketing,SEO Analyst,Male,22,80061.28,4.4,148.0,4,2,Yes,2019-08-11
+1090,Marketing,SEO Analyst,Male,34,73720.49,5.0,169.0,4,3,No,2018-12-16
+1091,Sales,Sales Rep,Male,41,82547.87,5.9,174.0,4,4,Yes,2018-02-13
+1092,Marketing,SEO Analyst,Male,42,79279.77,9.1,162.0,4,3,No,2014-12-02
+1093,Sales,Sales Manager,Male,43,97551.89,10.9,113.0,3,4,No,2013-02-07
+1094,Engineering,DevOps Engineer,Male,49,90490.73,2.6,167.0,2,2,No,2021-06-06
+1095,Finance,Finance Manager,Female,30,86281.75,2.9,188.0,4,3,No,2021-01-25
+1096,Finance,Accountant,Male,47,104382.15,12.0,186.0,3,4,No,2012-01-15
+1097,Finance,Finance Manager,Male,30,118154.77,13.0,177.0,3,2,No,2011-01-21
+1098,Marketing,Marketing Manager,Female,36,106761.91,11.5,148.0,3,1,No,2012-06-17
+1099,Engineering,Data Scientist,Male,31,115929.92,10.6,178.0,2,3,No,2013-06-06
+1100,Marketing,Marketing Specialist,Female,45,94413.69,10.4,159.0,4,1,Yes,2013-08-03
+1101,Marketing,Marketing Specialist,Female,29,79021.15,4.5,177.0,2,3,No,2019-06-21
+1102,Finance,Data Scientist,Male,45,119590.24,12.6,172.0,4,4,Yes,2011-06-05
+1103,Engineering,DevOps Engineer,Male,37,102992.74,5.4,150.0,3,3,No,2018-08-19
+1104,Finance,Software Engineer,Female,47,101300.74,5.4,152.0,1,2,No,2018-07-24
+1105,Engineering,Software Engineer,Female,48,111173.38,3.5,177.0,3,3,Yes,2020-07-01
+1106,Finance,Financial Analyst,Male,58,75115.92,2.1,166.0,1,3,No,2021-11-13
+1107,HR,Recruiter,Female,41,80396.08,8.4,153.0,3,1,No,2015-08-22
+1108,HR,HR Specialist,Male,45,100383.99,13.8,152.0,4,3,No,2010-04-05
+1109,Engineering,Software Engineer,Female,40,130809.15,11.4,164.0,2,3,No,2012-07-27
+1110,HR,Recruiter,Male,57,86674.17,8.0,201.0,4,3,No,2015-12-26
+1111,HR,Recruiter,Female,31,91425.46,6.4,159.0,1,2,Yes,2017-08-18
+1112,Engineering,Data Scientist,Female,46,113361.22,11.5,170.0,3,3,No,2012-07-02
+1113,HR,HR Specialist,Female,39,84178.57,7.4,172.0,4,1,No,2016-08-01
+1114,Marketing,Marketing Specialist,Male,40,74366.74,4.3,147.0,3,2,No,2019-10-02
+1115,Sales,Account Manager,Male,57,114018.42,10.5,135.0,2,4,Yes,2013-07-19
+1116,Sales,Sales Manager,Male,31,69933.61,3.8,149.0,3,3,No,2020-03-05
+1117,Engineering,Data Scientist,Male,54,119982.23,13.9,175.0,3,1,No,2010-01-27
+1118,Finance,Financial Analyst,Male,26,94504.86,8.1,172.0,4,2,No,2015-11-28
+1119,Engineering,Software Engineer,Female,56,76408.83,2.8,184.0,3,2,Yes,2021-03-24
+1120,Finance,Accountant,Male,55,100793.96,10.0,172.0,4,2,No,2014-01-03
+1121,Sales,Sales Manager,Male,54,66726.94,2.6,168.0,5,2,No,2021-05-21
+1122,Engineering,DevOps Engineer,Female,42,121003.15,11.6,158.0,3,1,No,2012-05-21
+1123,Operations,Operations Analyst,Female,38,82634.05,7.3,188.0,5,3,No,2016-09-10
+1124,Finance,Marketing Manager,Female,43,82809.37,2.6,152.0,3,3,No,2021-05-21
+1125,HR,HR Manager,Female,58,91103.39,9.5,269.0,5,3,No,2014-06-18
+1126,Finance,Finance Manager,Male,36,102184.77,10.6,181.0,2,3,Yes,2013-06-06
+1127,Operations,Logistics Coordinator,Male,56,67612.68,5.6,143.0,4,1,No,2018-05-22
+1128,HR,HR Specialist,Female,41,90135.35,10.4,218.0,3,4,No,2013-08-16
+1129,HR,Recruiter,Female,28,50738.13,2.1,172.0,3,4,No,2021-11-23
+1130,Engineering,DevOps Engineer,Male,53,141651.67,14.0,177.0,4,4,No,2010-01-05
+1131,HR,HR Specialist,Female,32,84535.52,6.7,154.0,4,4,Yes,2017-04-09
+1132,Marketing,SEO Analyst,Male,31,65246.59,3.0,164.0,1,4,No,2020-12-16
+1133,Operations,Operations Analyst,Male,30,85094.92,13.6,161.0,2,3,No,2010-06-09
+1134,HR,Recruiter,Male,35,100330.98,11.5,159.0,4,2,Yes,2012-07-05
+1135,Engineering,Software Engineer,Male,34,101783.68,5.9,183.0,4,3,No,2018-02-21
+1136,Marketing,SEO Analyst,Male,46,91202.53,7.1,161.0,5,3,No,2016-11-24
+1137,Sales,Sales Manager,Male,23,78044.58,8.6,190.0,4,3,Yes,2015-05-16
+1138,Operations,Logistics Coordinator,Female,56,91305.0,12.7,223.0,5,3,No,2011-04-20
+1139,HR,HR Manager,Male,28,80841.95,8.6,164.0,4,1,No,2015-05-28
+1140,Engineering,Data Scientist,Male,42,121975.84,12.2,173.0,3,3,No,2011-10-08
+1141,Sales,Sales Manager,Female,39,97699.48,12.1,178.0,2,4,No,2011-12-03
+1142,Sales,Sales Manager,Female,24,79282.8,3.1,206.0,4,3,No,2020-11-25
+1143,Finance,Accountant,Female,32,100769.38500000001,12.5,168.0,4,3,No,2011-07-21
+1144,Marketing,SEO Analyst,Female,45,65160.96,2.1,153.0,1,2,No,2021-12-12
+1145,HR,HR Specialist,Female,40,89562.37,11.2,145.0,3,3,Yes,2012-10-27
+1146,Engineering,Data Scientist,Male,25,122415.51,11.1,169.0,5,4,No,2012-11-17
+1147,Finance,Financial Analyst,Male,47,90592.92,3.3,161.0,3,3,No,2020-08-29
+1148,Marketing,SEO Analyst,Male,59,81902.86,10.3,210.0,3,4,No,2013-09-14
+1149,Finance,Financial Analyst,Male,53,87027.09,8.1,269.0,3,3,No,2015-12-12
+1150,Operations,Ops Manager,Male,57,74821.41,2.2,149.0,3,3,No,2021-11-01
+1151,Marketing,SEO Analyst,Female,58,76158.51,4.5,156.0,3,2,No,2019-06-29
+1152,Marketing,Marketing Manager,Male,54,81902.86,9.3,171.0,3,3,No,2014-10-02
+1153,HR,Recruiter,Male,57,95909.22,9.5,198.0,2,3,Yes,2014-07-06
+1154,Marketing,Marketing Specialist,Male,24,81925.4,7.0,171.0,4,3,Yes,2016-12-28
+1155,Finance,Accountant,Female,30,99734.38,5.1,157.0,3,3,No,2018-12-13
+1156,Marketing,Marketing Specialist,Male,29,77340.15,5.6,169.0,4,4,No,2018-05-18
+1157,HR,HR Specialist,Female,54,84085.98,4.2,157.0,5,1,No,2019-10-29
+1158,HR,Recruiter,Male,27,76242.73,2.4,182.0,3,4,No,2021-08-10
+1159,Operations,Ops Manager,Male,25,67708.29,3.9,156.0,4,2,No,2020-02-16
+1160,Finance,Accountant,Male,34,116672.57,11.3,160.0,3,3,No,2012-09-18
+1161,Sales,Sales Manager,Female,23,95363.01,8.4,193.0,5,1,No,2015-07-24
+1162,Sales,Sales Rep,Male,26,102949.05,9.0,155.0,3,2,Yes,2015-01-15
+1163,Marketing,SEO Analyst,Female,48,90080.61,12.6,141.0,4,3,Yes,2011-06-09
+1164,Operations,Logistics Coordinator,Male,53,82688.41,6.4,172.0,4,1,No,2017-08-01
+1165,Engineering,DevOps Engineer,Male,42,133967.4,13.5,163.0,3,3,No,2010-06-22
+1166,Marketing,SEO Analyst,Female,29,72330.08,8.8,180.0,2,4,No,2015-03-01
+1167,Operations,Operations Analyst,Female,59,75833.93,9.1,176.0,4,2,Yes,2014-12-10
+1168,Finance,Accountant,Female,29,100086.14,13.8,169.0,4,4,Yes,2010-02-28
+1169,Finance,Financial Analyst,Female,24,110044.75,12.4,169.0,3,3,No,2011-08-05
+1170,Finance,Financial Analyst,Female,24,118840.34,12.7,155.0,4,3,No,2011-04-28
+1171,Finance,Finance Manager,Female,43,113718.86,8.9,172.0,3,2,Yes,2015-02-19
+1172,Finance,Finance Manager,Female,27,100769.38500000001,12.5,188.0,4,2,No,2011-07-07
+1173,Operations,Operations Analyst,Female,23,110928.92,13.3,151.0,2,2,Yes,2010-09-15
+1174,Operations,Ops Manager,Female,44,66759.19,6.6,170.0,5,1,No,2017-05-30
+1175,HR,HR Manager,Female,23,78572.94,12.4,191.0,3,2,No,2011-08-04
+1176,Sales,Sales Rep,Female,59,72055.62,2.5,180.0,3,3,Yes,2021-07-13
+1177,Finance,Accountant,Male,38,104172.52,8.7,196.0,2,4,No,2015-05-04
+1178,Engineering,Data Scientist,Female,56,111173.38,7.8,159.0,2,4,No,2016-03-31
+1179,Operations,Ops Manager,Female,55,50760.46,3.1,133.0,3,3,No,2020-11-20
+1180,Engineering,DevOps Engineer,Male,44,111887.04,9.2,174.0,3,2,No,2014-10-22
+1181,Engineering,Software Engineer,Female,51,107564.24,11.0,177.0,4,2,Yes,2012-12-19
+1182,Engineering,Software Engineer,Male,29,100557.38,3.4,197.0,1,2,No,2020-08-08
+1183,HR,HR Specialist,Male,43,83732.79,8.6,194.0,3,2,No,2015-06-14
+1184,Operations,Operations Analyst,Female,57,60680.96,3.4,181.0,3,3,No,2020-08-10
+1185,Engineering,Data Scientist,Male,26,95589.06,4.9,185.0,1,3,No,2019-02-17
+1186,Finance,Financial Analyst,Female,34,100769.38500000001,9.7,166.0,2,3,No,2014-04-09
+1187,Marketing,Marketing Specialist,Female,50,95198.57,11.9,146.0,3,3,No,2012-02-12
+1188,Engineering,DevOps Engineer,Male,52,128041.14,11.8,172.0,3,4,Yes,2012-03-05
+1189,HR,HR Specialist,Male,37,60014.19,4.3,190.0,3,4,Yes,2019-09-02
+1190,Operations,Ops Manager,Male,51,80332.37,6.1,183.0,3,2,No,2017-12-12
+1191,HR,HR Specialist,Female,37,64257.94,4.5,187.0,4,4,No,2019-07-02
+1192,Engineering,Software Engineer,Female,33,93057.02,4.8,161.0,1,4,No,2019-03-22
+1193,Operations,Ops Manager,Female,38,67643.76,3.5,165.0,3,2,No,2020-06-22
+1194,Marketing,SEO Analyst,Male,41,90118.06,12.8,180.0,5,3,No,2011-03-20
+1195,Engineering,Data Scientist,Female,33,115970.81,11.8,159.0,3,3,Yes,2012-03-17
+1196,HR,HR Manager,Male,29,83216.98,12.6,160.0,4,4,No,2011-05-12
+1197,Sales,Sales Manager,Female,41,95717.8,5.0,176.0,3,4,No,2019-01-12
+1198,Finance,Accountant,Male,24,94482.11,6.4,185.0,4,2,No,2017-08-11
+1199,HR,HR Manager,Female,37,84202.2,11.6,166.0,4,3,No,2012-06-14
+1200,Operations,Ops Manager,Male,51,84911.84,8.4,147.0,3,3,No,2015-07-30
+1201,Engineering,DevOps Engineer,Female,44,113201.38,9.7,155.0,5,3,No,2014-04-19
+1202,Finance,Finance Manager,Male,49,102332.24,9.7,174.0,2,2,No,2014-04-08
+1203,Engineering,DevOps Engineer,Female,26,101613.33,3.9,174.0,1,4,No,2020-01-24
+1204,Operations,Logistics Coordinator,Female,41,96760.06,10.9,175.0,4,3,No,2013-02-22
+1205,Engineering,DevOps Engineer,Male,22,94255.99,4.5,180.0,4,4,No,2019-06-19
+1206,Sales,Account Manager,Female,51,90093.45,9.9,170.0,2,4,No,2014-02-12
+1207,Finance,Financial Analyst,Female,42,96199.59,7.8,175.0,3,3,No,2016-03-31
+1208,Finance,Accountant,Male,41,67384.63,3.6,169.0,1,3,No,2020-05-17
+1209,Operations,Operations Analyst,Male,27,71078.47,8.4,193.0,3,3,No,2015-08-09
+1210,Finance,Account Manager,Female,43,112834.99,12.3,199.0,4,2,Yes,2011-09-10
+1211,HR,Recruiter,Male,39,80459.74,4.1,146.0,3,3,No,2019-12-10
+1212,Engineering,DevOps Engineer,Male,29,118407.71,11.8,165.0,3,2,No,2012-03-13
+1213,Marketing,SEO Analyst,Male,53,103312.46,12.9,171.0,3,3,No,2011-02-19
+1214,Engineering,Data Scientist,Female,54,128590.0,13.7,165.0,1,2,No,2010-05-01
+1215,Engineering,DevOps Engineer,Male,37,145331.05,11.9,206.0,3,2,No,2012-02-04
+1216,HR,HR Specialist,Female,33,90056.6,8.7,174.0,4,2,No,2015-04-21
+1217,Engineering,Data Scientist,Female,59,114876.66,10.3,154.0,5,1,Yes,2013-09-24
+1218,Sales,Sales Manager,Female,55,72055.68,4.9,182.0,4,3,No,2019-02-12
+1219,Sales,Sales Rep,Female,35,61448.43,3.1,175.0,1,3,No,2020-11-22
+1220,Finance,Accountant,Male,57,86227.71,3.2,176.0,5,3,No,2020-10-18
+1221,Operations,Logistics Coordinator,Female,54,79549.19,9.2,206.0,4,2,No,2014-10-18
+1222,Marketing,SEO Analyst,Male,44,63621.97,5.0,177.0,4,1,No,2018-12-30
+1223,Engineering,Software Engineer,Male,23,117927.42,12.7,164.0,3,1,Yes,2011-04-26
+1224,Engineering,Software Engineer,Male,42,107247.62,10.3,131.0,3,2,No,2013-09-10
+1225,HR,Recruiter,Male,23,84997.13,5.5,167.0,3,4,No,2018-07-02
+1226,Operations,Logistics Coordinator,Female,48,107053.12,14.0,196.0,2,2,Yes,2010-01-18
+1227,Sales,Sales Rep,Female,30,80536.22,5.2,168.0,3,3,Yes,2018-10-04
+1228,Marketing,Marketing Manager,Male,22,96139.55,8.1,125.0,3,2,Yes,2015-12-13
+1229,Finance,Financial Analyst,Male,41,87018.95,3.8,160.0,3,2,No,2020-03-16
+1230,Sales,Sales Manager,Female,24,80909.73,7.6,190.0,4,3,Yes,2016-05-25
+1231,Operations,Ops Manager,Male,44,83684.99,4.5,181.0,3,3,No,2019-06-28
+1232,Finance,Finance Manager,Male,47,88611.28,3.1,153.0,2,2,No,2020-11-30
+1233,HR,Recruiter,Male,25,78202.03,10.5,159.0,5,1,No,2013-06-22
+1234,Finance,Recruiter,Female,39,82577.29,9.7,162.0,5,3,No,2014-04-05
+1235,Engineering,DevOps Engineer,Female,41,100195.05,7.4,157.0,4,2,No,2016-08-27
+1236,Operations,Ops Manager,Male,56,74237.6,9.1,129.0,5,2,No,2014-11-19
+1237,Marketing,Marketing Manager,Male,43,105509.42,12.7,185.0,3,4,No,2011-04-25
+1238,Finance,Financial Analyst,Female,36,128075.33,12.6,195.0,5,3,No,2011-05-15
+1239,Sales,Account Manager,Female,43,74811.46,7.0,140.0,2,3,No,2017-01-13
+1240,Operations,Ops Manager,Male,58,83045.655,12.7,195.0,3,3,No,2011-04-14
+1241,Operations,Ops Manager,Female,33,91494.86,12.9,168.0,3,3,No,2011-02-15
+1242,HR,HR Specialist,Male,59,61003.0,3.3,195.0,2,3,No,2020-09-10
+1243,Engineering,Data Scientist,Male,39,88360.85,2.7,171.0,2,3,Yes,2021-04-12
+1244,Engineering,DevOps Engineer,Female,56,84388.07,2.1,173.0,4,3,Yes,2021-11-29
+1245,Finance,Accountant,Male,51,106888.17,10.5,177.0,4,2,No,2013-07-13
+1246,HR,HR Manager,Female,45,86452.4,12.7,154.0,4,3,No,2011-04-11
+1247,Operations,Operations Analyst,Male,51,67963.65,2.6,194.0,2,3,No,2021-05-23
+1248,Marketing,Marketing Specialist,Male,41,81902.86,12.2,148.0,4,4,No,2011-10-19
+1249,HR,Recruiter,Female,27,82743.435,9.8,162.0,4,3,No,2014-03-03
+1250,Finance,Financial Analyst,Male,24,105239.49,12.5,180.0,3,3,No,2011-07-16
+1251,Finance,Accountant,Female,37,107885.83,12.5,160.0,4,2,No,2011-07-11
+1252,HR,HR Manager,Male,28,87143.13,8.7,186.0,3,3,No,2015-04-11
+1253,Finance,Financial Analyst,Male,35,93707.34,4.9,198.0,3,2,No,2019-01-21
+1254,HR,HR Manager,Male,30,81079.56,11.3,190.0,5,2,No,2012-09-09
+1255,Sales,Sales Manager,Female,36,91294.66,8.5,131.0,3,2,Yes,2015-07-10
+1256,HR,HR Specialist,Male,42,100311.1,13.1,173.0,3,3,Yes,2010-11-22
+1257,HR,HR Specialist,Female,56,78244.76,12.2,191.0,5,2,No,2011-11-03
+1258,Finance,Financial Analyst,Male,23,93146.88,4.6,144.0,4,3,No,2019-05-28
+1259,Finance,Finance Manager,Female,48,76599.01,2.3,184.0,2,4,No,2021-09-22
+1260,Engineering,Data Scientist,Male,23,110264.79,6.9,183.0,2,2,Yes,2017-02-04
+1261,Engineering,Data Scientist,Female,56,166532.95249999996,8.2,146.0,1,3,No,2015-11-07
+1262,Sales,Sales Manager,Female,41,78760.94,9.4,187.0,4,3,No,2014-08-01
+1263,Engineering,DevOps Engineer,Female,35,92979.66,7.0,175.0,3,1,No,2017-01-17
+1264,HR,HR Manager,Female,41,81484.68,8.7,183.0,2,4,No,2015-05-10
+1265,Finance,Financial Analyst,Female,39,101077.78,8.0,151.0,5,1,No,2015-12-16
+1266,Engineering,Data Scientist,Female,31,93065.47,5.1,173.0,3,3,No,2018-11-17
+1267,Engineering,Data Scientist,Male,46,111173.38,11.1,136.0,3,3,No,2012-12-08
+1268,Sales,Account Manager,Male,23,73607.84,7.3,124.0,3,3,Yes,2016-09-23
+1269,Operations,Logistics Coordinator,Female,46,68571.36,3.7,173.0,4,3,Yes,2020-04-03
+1270,Sales,Account Manager,Female,54,76011.87,6.9,192.0,2,2,No,2017-02-03
+1271,HR,Recruiter,Female,57,86985.31,12.4,175.0,3,1,No,2011-08-18
+1272,Finance,Finance Manager,Male,52,116779.19,13.8,169.0,4,3,No,2010-03-18
+1273,Sales,Sales Manager,Male,35,69216.69,3.7,166.0,3,3,No,2020-04-12
+1274,Engineering,Software Engineer,Male,22,117323.56,11.8,151.0,3,3,No,2012-03-30
+1275,Finance,Finance Manager,Female,37,120250.34,12.4,166.0,3,4,No,2011-08-24
+1276,Finance,Finance Manager,Male,24,97984.87,9.2,178.0,1,4,No,2014-10-13
+1277,Engineering,Data Scientist,Male,56,99785.54,2.7,161.0,2,3,No,2021-05-07
+1278,Sales,Sales Rep,Male,27,80262.35,8.1,185.0,3,3,No,2015-12-13
+1279,Finance,Data Scientist,Male,46,122238.43,11.0,174.0,3,4,No,2012-12-21
+1280,Operations,Operations Analyst,Male,34,88132.55,6.2,176.0,1,3,No,2017-10-30
+1281,Finance,Finance Manager,Male,55,92726.84,12.5,188.0,4,2,No,2011-07-18
+1282,Marketing,Marketing Manager,Female,29,79124.84,8.5,159.0,5,4,Yes,2015-06-25
+1283,Marketing,SEO Analyst,Male,42,81716.58,5.7,183.0,4,4,No,2018-04-16
+1284,HR,Recruiter,Male,55,76175.64,7.6,162.0,5,3,No,2016-05-23
+1285,Engineering,Data Scientist,Male,25,119469.17,10.5,177.0,3,1,Yes,2013-07-16
+1286,Engineering,DevOps Engineer,Male,46,92768.12,4.2,157.0,5,3,No,2019-10-30
+1287,HR,HR Manager,Male,36,82743.435,7.2,152.0,2,4,No,2016-10-14
+1288,HR,HR Manager,Male,25,60054.58,2.1,172.0,5,4,Yes,2021-11-12
+1289,HR,HR Specialist,Female,33,105742.26,13.8,132.0,5,2,No,2010-03-06
+1290,Finance,Accountant,Male,53,98935.37,7.3,164.0,4,1,No,2016-09-18
+1291,Operations,Operations Analyst,Female,53,95800.82,11.7,138.0,5,4,Yes,2012-04-28
+1292,Engineering,DevOps Engineer,Female,49,114704.98,11.0,186.0,4,3,No,2013-01-05
+1293,Finance,Finance Manager,Female,34,95399.15,8.1,191.0,3,3,No,2015-12-07
+1294,HR,HR Specialist,Male,52,85739.53,11.4,153.0,3,4,Yes,2012-08-03
+1295,Engineering,Data Scientist,Male,35,111173.38,11.6,179.0,4,1,No,2012-05-26
+1296,Finance,Accountant,Male,41,103132.12,10.5,188.0,2,3,No,2013-06-27
+1297,Operations,Ops Manager,Male,39,84018.2,7.9,188.0,4,1,Yes,2016-02-10
+1298,Finance,Finance Manager,Female,50,114703.21,7.7,174.0,5,3,Yes,2016-04-27
+1299,Operations,Ops Manager,Male,27,92869.0,9.3,185.0,2,4,No,2014-09-22
+1300,HR,Recruiter,Male,53,71291.81,6.3,157.0,4,3,No,2017-09-09
+1301,Operations,Operations Analyst,Female,50,95809.71,9.4,172.0,5,4,No,2014-07-26
+1302,Engineering,DevOps Engineer,Female,23,106035.4,8.1,161.0,5,3,No,2015-12-03
+1303,HR,HR Manager,Male,44,46795.0,2.7,155.0,5,2,No,2021-05-03
+1304,Engineering,Software Engineer,Male,41,85935.31,3.0,171.0,3,2,No,2020-12-16
+1305,Marketing,SEO Analyst,Male,52,70233.66,8.4,269.0,5,3,No,2015-08-20
+1306,Sales,Sales Manager,Male,26,100887.89,12.9,193.0,4,3,No,2011-02-21
+1307,Operations,Logistics Coordinator,Male,40,93847.35,11.9,175.0,2,1,No,2012-01-27
+1308,Sales,Sales Manager,Male,55,91911.5,4.5,183.0,3,3,Yes,2019-07-02
+1309,Sales,Account Manager,Male,31,91015.42,7.8,183.0,4,3,Yes,2016-03-16
+1310,Operations,Operations Analyst,Male,46,95247.2,13.0,224.0,3,3,No,2010-12-28
+1311,HR,HR Manager,Male,23,103335.24,13.9,134.0,4,3,No,2010-01-30
+1312,Marketing,Marketing Manager,Male,32,61810.92,6.5,156.0,4,3,No,2017-06-25
+1313,Engineering,DevOps Engineer,Male,52,120184.92,11.1,199.0,2,1,No,2012-12-07
+1314,Finance,Finance Manager,Female,36,105466.92,8.1,163.0,4,2,No,2015-11-16
+1315,Engineering,DevOps Engineer,Female,30,104371.31,10.4,188.0,4,3,No,2013-08-16
+1316,Finance,Financial Analyst,Male,44,96450.03,4.1,175.0,3,3,No,2019-11-29
+1317,Engineering,DevOps Engineer,Male,40,100907.97,4.4,212.0,1,1,No,2019-08-05
+1318,Operations,Ops Manager,Male,30,96077.7,13.8,148.0,1,4,No,2010-03-21
+1319,Marketing,SEO Analyst,Female,56,99562.25,11.5,194.0,3,4,No,2012-07-05
+1320,Finance,Finance Manager,Female,42,130065.54,12.3,205.0,5,3,No,2011-09-09
+1321,HR,Recruiter,Male,41,88554.93,10.7,150.0,3,1,No,2013-05-06
+1322,Engineering,Software Engineer,Female,49,126585.76,13.2,186.0,4,4,No,2010-10-23
+1323,Engineering,Data Scientist,Male,28,98425.11,5.7,151.0,3,3,No,2018-04-13
+1324,Finance,Accountant,Male,37,100301.25,10.7,171.0,3,4,No,2013-04-28
+1325,HR,HR Specialist,Female,37,74842.69,4.4,165.0,4,4,Yes,2019-08-22
+1326,HR,HR Specialist,Female,54,81451.33,11.1,122.0,4,4,No,2012-11-10
+1327,Operations,Logistics Coordinator,Female,25,97872.53,13.1,178.0,2,3,No,2010-12-09
+1328,Operations,Logistics Coordinator,Female,25,75478.74,7.1,173.0,3,2,No,2016-11-30
+1329,Operations,Operations Analyst,Male,38,79231.84,5.8,200.0,1,3,No,2018-03-07
+1330,Operations,Operations Analyst,Female,58,99969.3,13.1,182.0,3,3,No,2010-11-23
+1331,Operations,Operations Analyst,Male,50,84300.32,6.0,216.0,4,3,No,2018-01-10
+1332,Operations,Operations Analyst,Female,57,81819.87,9.3,172.0,2,2,No,2014-09-17
+1333,Marketing,Marketing Specialist,Male,59,83041.0,8.4,168.0,3,2,No,2015-08-07
+1334,HR,Recruiter,Female,58,82269.89,11.7,166.0,3,4,No,2012-04-22
+1335,Operations,Operations Analyst,Male,56,72745.65,6.1,161.0,5,3,No,2017-12-07
+1336,HR,HR Manager,Female,28,72718.4,4.9,126.0,5,4,No,2019-02-12
+1337,HR,HR Manager,Male,48,82743.435,10.5,166.0,1,4,Yes,2013-06-20
+1338,Sales,Sales Manager,Female,49,83722.68,8.7,129.0,4,3,No,2015-04-24
+1339,Marketing,Marketing Manager,Male,43,98156.85,10.4,179.0,3,3,No,2013-08-24
+1340,Operations,Operations Analyst,Male,35,98845.1,10.0,145.0,3,4,No,2013-12-21
+1341,Engineering,DevOps Engineer,Male,41,102707.48,4.8,152.0,4,3,Yes,2019-04-01
+1342,Finance,Accountant,Male,58,130514.37,13.5,157.0,5,3,No,2010-07-23
+1343,Engineering,DevOps Engineer,Female,43,108809.69,10.0,166.0,5,2,No,2014-01-09
+1344,Marketing,Marketing Specialist,Male,26,69842.76,6.6,170.0,4,3,Yes,2017-06-14
+1345,Finance,Finance Manager,Female,23,75170.24,4.8,192.0,3,3,No,2019-03-27
+1346,Marketing,SEO Analyst,Male,48,97168.35,8.4,158.0,4,2,No,2015-07-26
+1347,HR,HR Specialist,Male,42,84234.93,8.0,180.0,3,2,No,2015-12-26
+1348,Finance,Financial Analyst,Female,59,105755.32,10.4,225.0,4,2,No,2013-07-28
+1349,HR,HR Specialist,Female,36,92039.75,11.6,178.0,3,2,Yes,2012-06-04
+1350,Engineering,DevOps Engineer,Male,42,92196.09,5.4,166.0,4,2,No,2018-07-31
+1351,Engineering,DevOps Engineer,Male,31,143866.02,13.1,154.0,3,3,Yes,2010-11-14
+1352,Finance,Financial Analyst,Female,41,86233.77,3.4,166.0,2,4,No,2020-07-22
+1353,Finance,Finance Manager,Male,26,102875.16,9.0,152.0,5,3,No,2014-12-28
+1354,Operations,Logistics Coordinator,Female,22,92306.13,9.5,175.0,2,2,No,2014-06-23
+1355,Marketing,Marketing Specialist,Female,34,74948.07,3.7,172.0,3,1,Yes,2020-04-28
+1356,Operations,Logistics Coordinator,Female,42,78391.07,6.2,127.0,3,3,No,2017-11-04
+1357,Marketing,SEO Analyst,Male,47,75276.2,7.2,170.0,1,3,No,2016-11-05
+1358,Operations,Ops Manager,Female,42,88471.75,8.9,192.0,1,4,No,2015-02-08
+1359,Finance,HR Manager,Male,39,97056.2,9.0,162.0,2,3,No,2015-01-01
+1360,Finance,Financial Analyst,Male,58,126263.36,13.5,157.0,5,4,No,2010-07-13
+1361,Engineering,Data Scientist,Male,53,126845.49,9.7,142.0,3,2,No,2014-05-02
+1362,Marketing,Marketing Manager,Male,57,71210.27,5.1,133.0,5,3,No,2018-12-09
+1363,Marketing,SEO Analyst,Female,38,71883.16,6.6,187.0,4,2,No,2017-05-13
+1364,Engineering,DevOps Engineer,Female,56,107393.7,7.8,166.0,3,4,Yes,2016-04-01
+1365,Operations,Logistics Coordinator,Female,32,95945.8,12.5,185.0,4,3,No,2011-07-23
+1366,Marketing,Marketing Specialist,Male,42,81902.86,7.7,201.0,3,2,No,2016-04-05
+1367,HR,HR Manager,Male,47,59760.28,6.1,188.0,4,2,No,2017-11-16
+1368,Finance,Financial Analyst,Male,25,95036.4,2.6,159.0,3,2,No,2021-06-05
+1369,Engineering,Data Scientist,Female,55,98735.94,5.0,173.0,3,3,Yes,2018-12-19
+1370,Finance,Accountant,Male,39,91384.95,6.6,158.0,5,2,No,2017-06-05
+1371,Marketing,Marketing Specialist,Female,56,92103.16,13.4,156.0,5,3,Yes,2010-08-15
+1372,Marketing,SEO Analyst,Male,50,80961.15,11.4,177.0,5,2,Yes,2012-08-02
+1373,Engineering,DevOps Engineer,Male,50,111173.38,8.1,153.0,3,3,No,2015-11-10
+1374,HR,HR Manager,Female,59,85586.54,10.0,126.0,4,4,Yes,2014-01-02
+1375,Sales,Account Manager,Male,42,78980.31,8.1,152.0,3,4,No,2015-12-15
+1376,Engineering,Data Scientist,Female,34,114239.37,13.2,164.0,3,4,Yes,2010-11-10
+1377,Sales,Account Manager,Female,38,97113.72,11.6,200.0,3,2,No,2012-06-07
+1378,Operations,Logistics Coordinator,Male,30,84252.17,4.3,160.0,4,1,No,2019-09-30
+1379,Sales,Sales Manager,Male,22,81823.27,6.3,180.0,2,3,No,2017-10-02
+1380,HR,HR Manager,Male,23,63974.86,7.0,167.0,3,3,No,2017-01-13
+1381,Operations,Logistics Coordinator,Female,50,68634.06,4.2,195.0,5,3,No,2019-10-15
+1382,Sales,Sales Rep,Male,54,70318.21,2.5,193.0,3,1,No,2021-06-21
+1383,Operations,Operations Analyst,Female,31,70624.91,11.4,194.0,2,2,No,2012-08-05
+1384,Sales,Sales Manager,Female,42,80765.64,5.4,135.0,2,1,No,2018-08-22
+1385,HR,HR Specialist,Female,49,82252.52,9.7,174.0,5,3,No,2014-04-07
+1386,Sales,Account Manager,Male,32,95469.65,8.3,185.0,3,2,No,2015-09-18
+1387,Sales,Sales Rep,Female,55,118791.65,13.0,178.0,3,3,No,2010-12-30
+1388,Sales,Sales Manager,Female,29,86612.52,4.2,183.0,4,1,No,2019-10-13
+1389,Engineering,Data Scientist,Male,43,124848.89,14.0,171.0,4,3,No,2010-01-14
+1390,Engineering,Data Scientist,Male,29,83047.79,2.3,155.0,3,2,No,2021-08-30
+1391,Engineering,DevOps Engineer,Female,36,134386.88,9.6,136.0,4,4,No,2014-06-03
+1392,HR,HR Specialist,Male,38,72873.75,5.8,157.0,4,4,No,2018-03-03
+1393,Operations,Ops Manager,Female,44,71011.43,4.3,224.0,4,2,No,2019-09-04
+1394,Marketing,Marketing Manager,Male,45,97007.0,12.4,160.0,2,4,No,2011-07-28
+1395,Finance,Sales Rep,Male,41,86384.68,6.6,131.0,5,4,No,2017-05-28
+1396,Sales,Account Manager,Female,26,84845.12,7.0,185.0,3,4,Yes,2017-01-15
+1397,HR,HR Specialist,Male,53,84010.7,11.2,187.0,3,4,No,2012-10-17
+1398,Sales,Sales Rep,Male,22,82525.13,7.3,196.0,3,2,No,2016-09-26
+1399,Engineering,Data Scientist,Male,41,92537.97,2.6,179.0,1,3,No,2021-05-17
+1400,Finance,SEO Analyst,Male,58,76952.6,7.1,187.0,2,1,No,2016-12-08
+1401,Finance,Finance Manager,Male,29,83697.23,4.8,207.0,4,1,No,2019-02-28
+1402,Sales,Sales Rep,Male,34,85951.44,6.7,155.0,1,4,No,2017-04-26
+1403,Engineering,Data Scientist,Female,29,97960.18,5.0,151.0,3,2,No,2019-01-10
+1404,Finance,Financial Analyst,Male,44,109231.94,7.4,148.0,3,3,No,2016-08-19
+1405,Marketing,Marketing Specialist,Female,22,72392.24,11.2,165.0,2,4,No,2012-11-08
+1406,Finance,Accountant,Male,45,112832.05,9.7,199.0,5,4,No,2014-04-21
+1407,Engineering,Data Scientist,Female,56,108768.68,4.6,181.0,3,4,No,2019-06-07
+1408,Operations,Operations Analyst,Male,45,57912.88,5.5,180.0,3,2,No,2018-07-03
+1409,Operations,Logistics Coordinator,Female,38,85558.5,10.1,134.0,3,1,No,2013-11-26
+1410,Finance,Financial Analyst,Male,41,166532.95249999996,7.3,156.0,3,3,Yes,2016-10-01
+1411,HR,Recruiter,Male,41,58439.91,4.9,133.0,1,2,No,2019-02-09
+1412,Finance,Finance Manager,Male,42,110777.47,14.0,193.0,4,1,Yes,2010-01-04
+1413,Sales,Account Manager,Male,52,77715.39,7.2,202.0,5,3,No,2016-10-25
+1414,Sales,Sales Rep,Male,57,101818.16,7.6,186.0,3,4,No,2016-06-08
+1415,Operations,Logistics Coordinator,Male,32,93385.43,9.3,150.0,4,3,No,2014-09-18
+1416,HR,HR Specialist,Female,36,78372.44,4.4,200.0,4,2,No,2019-08-23
+1417,Engineering,Data Scientist,Male,40,111173.38,6.8,165.0,4,3,No,2017-03-24
+1418,Sales,Sales Rep,Male,28,66767.59,3.6,146.0,3,2,No,2020-06-06
+1419,Operations,Operations Analyst,Female,49,66103.84,4.1,151.0,3,1,No,2019-11-29
+1420,Marketing,SEO Analyst,Female,26,76215.0,4.1,161.0,3,4,No,2019-12-02
+1421,Operations,Operations Analyst,Male,26,75822.98,9.2,171.0,4,3,No,2014-10-17
+1422,Sales,Sales Manager,Male,51,78203.99,2.5,167.0,4,4,No,2021-06-19
+1423,Sales,Sales Manager,Male,53,73277.4,3.4,142.0,2,1,No,2020-08-12
+1424,Operations,Logistics Coordinator,Female,29,85601.43,10.2,194.0,3,4,No,2013-10-22
+1425,Engineering,Software Engineer,Female,31,126987.68,12.1,167.0,5,3,Yes,2011-11-26
+1426,Finance,Financial Analyst,Male,59,101354.11,7.6,156.0,4,3,No,2016-05-13
+1427,Sales,Sales Rep,Female,53,69312.27,2.4,192.0,5,3,No,2021-07-24
+1428,Operations,Logistics Coordinator,Female,49,86774.64,6.5,146.0,4,4,No,2017-07-08
+1429,Operations,Logistics Coordinator,Male,38,85051.49,11.9,137.0,3,3,Yes,2012-02-05
+1430,HR,HR Manager,Female,52,86027.48,8.7,195.0,4,3,No,2015-04-09
+1431,Finance,Financial Analyst,Male,29,100744.81,7.0,208.0,4,4,Yes,2016-12-17
+1432,Marketing,Marketing Manager,Male,46,84523.63,9.0,161.0,2,4,No,2015-01-15
+1433,Finance,Data Scientist,Male,30,116109.06,9.5,169.0,3,3,No,2014-06-20
+1434,Marketing,SEO Analyst,Male,23,82091.09,10.7,147.0,4,3,No,2013-04-22
+1435,Finance,Finance Manager,Male,36,122892.22,13.5,170.0,2,3,No,2010-07-20
+1436,Finance,Financial Analyst,Female,24,112520.78,13.0,160.0,4,2,No,2011-01-14
+1437,Finance,Financial Analyst,Male,57,96318.22,8.5,168.0,4,3,Yes,2015-06-29
+1438,Marketing,Marketing Specialist,Male,25,78292.07,3.3,178.0,5,4,Yes,2020-08-28
+1439,Finance,Accountant,Male,35,106565.25,12.4,148.0,1,4,No,2011-08-20
+1440,Operations,Operations Analyst,Female,46,58132.31,3.8,163.0,3,2,No,2020-03-19
+1441,Marketing,Marketing Specialist,Male,31,61646.97,4.7,134.0,4,3,No,2019-04-19
+1442,Finance,Finance Manager,Male,42,108648.08,9.6,163.0,3,3,Yes,2014-05-12
+1443,Operations,Ops Manager,Male,57,63956.57,5.4,168.0,4,4,No,2018-08-12
+1444,HR,HR Manager,Male,33,77738.35,2.9,175.0,4,4,Yes,2021-02-01
+1445,Finance,Finance Manager,Female,48,73344.56,5.0,175.0,2,3,Yes,2018-12-18
+1446,Marketing,SEO Analyst,Female,23,99071.65,8.5,188.0,3,4,No,2015-06-22
+1447,Sales,Sales Rep,Male,34,98788.14,10.7,139.0,3,3,No,2013-04-23
+1448,Finance,Accountant,Female,53,115926.3,13.9,140.0,3,3,Yes,2010-02-15
+1449,Sales,Sales Rep,Female,41,95440.65,11.6,181.0,5,1,No,2012-05-23
+1450,Operations,Logistics Coordinator,Female,37,83045.655,4.5,129.0,4,3,Yes,2019-07-15
+1451,HR,HR Specialist,Male,53,82743.435,9.1,174.0,4,3,No,2014-11-28
+1452,Engineering,Software Engineer,Male,53,124126.42,10.1,146.0,4,3,No,2013-12-11
+1453,HR,HR Specialist,Male,55,63113.82,2.4,201.0,3,3,Yes,2021-08-14
+1454,Finance,Accountant,Female,32,87002.41,3.6,175.0,5,4,No,2020-06-02
+1455,Sales,Sales Manager,Male,31,100791.1,12.9,166.0,4,2,No,2011-02-16
+1456,Sales,Sales Manager,Male,36,82875.97,8.4,195.0,4,3,No,2015-08-04
+1457,Marketing,SEO Analyst,Male,41,96362.41,11.3,149.0,5,3,No,2012-09-21
+1458,Sales,Sales Rep,Female,39,82875.97,3.8,153.0,3,3,Yes,2020-03-28
+1459,Marketing,Marketing Specialist,Male,30,82214.52,11.0,269.0,4,3,Yes,2012-12-28
+1460,Operations,Logistics Coordinator,Female,46,74746.11,3.6,153.0,2,2,No,2020-06-03
+1461,Engineering,DevOps Engineer,Female,35,92666.92,2.1,171.0,3,2,No,2021-11-30
+1462,Finance,Finance Manager,Male,46,94228.13,6.9,180.0,3,3,Yes,2017-02-12
+1463,Marketing,Marketing Specialist,Female,43,72447.47,4.1,189.0,5,3,No,2019-12-05
+1464,Engineering,DevOps Engineer,Male,51,95880.65,2.7,134.0,5,2,Yes,2021-04-28
+1465,Sales,Sales Manager,Female,41,73881.92,4.4,167.0,4,3,No,2019-07-28
+1466,Sales,Sales Manager,Male,42,70773.56,4.0,148.0,4,3,No,2020-01-01
+1467,Engineering,Software Engineer,Female,53,117766.76,10.4,166.0,4,3,Yes,2013-07-27
+1468,Sales,Sales Manager,Female,42,67373.02,3.4,217.0,5,4,No,2020-08-24
+1469,Operations,Operations Analyst,Female,56,72966.02,3.9,176.0,3,2,No,2020-02-04
+1470,Operations,Logistics Coordinator,Female,53,83045.655,8.2,188.0,3,1,No,2015-10-25
+1471,Engineering,Data Scientist,Male,51,118733.25,8.5,209.0,2,4,No,2015-07-19
+1472,Marketing,Marketing Specialist,Female,33,87180.78,7.8,193.0,4,3,No,2016-03-21
+1473,Marketing,Marketing Manager,Female,39,68948.24,2.3,161.0,4,3,No,2021-09-10
+1474,Engineering,Data Scientist,Male,42,102161.53,3.1,144.0,3,4,No,2020-11-13
+1475,Marketing,Marketing Specialist,Male,34,99123.8,8.6,169.0,1,4,No,2015-05-14
+1476,Marketing,Marketing Manager,Female,42,91514.96,7.8,159.0,4,4,No,2016-02-28
+1477,Operations,Logistics Coordinator,Female,29,55573.01,4.1,140.0,1,3,No,2019-11-13
+1478,Marketing,Marketing Specialist,Female,28,166532.95249999996,12.3,175.0,4,3,Yes,2011-09-27
+1479,HR,HR Manager,Male,44,166532.95249999996,7.6,175.0,5,3,No,2016-05-29
+1480,Finance,Finance Manager,Female,53,101308.73,8.7,205.0,3,2,No,2015-04-05
+1481,Sales,Sales Rep,Male,32,92841.27,7.9,163.0,3,3,No,2016-02-04
+1482,HR,HR Manager,Female,43,68694.05,6.5,176.0,4,2,No,2017-07-14
+1483,Marketing,SEO Analyst,Male,43,81894.13,6.8,157.0,4,3,No,2017-03-04
+1484,Operations,Operations Analyst,Female,46,88556.94,12.2,187.0,3,3,No,2011-10-23
+1485,Engineering,DevOps Engineer,Female,41,112807.86,10.9,269.0,5,3,No,2013-02-07
+1486,Marketing,Marketing Manager,Male,49,80546.71,10.6,147.0,2,3,Yes,2013-05-20
+1487,Operations,Ops Manager,Female,50,77014.13,8.8,170.0,3,1,No,2015-03-10
+1488,Finance,Finance Manager,Male,34,80386.52,5.4,178.0,4,1,No,2018-08-04
+1489,Marketing,Marketing Manager,Female,39,83993.01,10.6,175.0,5,3,No,2013-06-05
+1490,Engineering,Software Engineer,Female,23,121029.13,9.2,191.0,2,1,Yes,2014-10-19
+1491,Operations,Logistics Coordinator,Male,50,88204.81,12.6,141.0,4,3,No,2011-06-11
+1492,Operations,Logistics Coordinator,Female,42,83045.655,4.7,153.0,4,4,No,2019-04-22
+1493,Operations,Operations Analyst,Female,36,76646.54,4.9,183.0,3,4,Yes,2019-02-22
+1494,Finance,Finance Manager,Male,48,96278.69,6.6,155.0,2,3,No,2017-06-03
+1495,Marketing,SEO Analyst,Male,52,63933.14,3.6,175.0,5,2,No,2020-06-13
+1496,Finance,Accountant,Female,36,94702.48,4.7,122.0,2,4,No,2019-04-30
+1497,Sales,Account Manager,Female,44,98194.9,12.6,224.0,3,4,No,2011-05-26
+1498,Sales,Sales Manager,Female,45,94176.08,9.4,165.0,3,2,No,2014-08-22
+1499,Marketing,Marketing Specialist,Female,34,94280.68,4.6,194.0,5,3,Yes,2019-06-04
+1500,Finance,Accountant,Male,43,90131.52,5.3,163.0,4,2,No,2018-09-26
